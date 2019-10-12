@@ -6,5 +6,5 @@ function updatePlaylist(list, name, title) {
 }
 
 function removeFromPlaylist(list, name) {
-  
+  delete list[name]
 }

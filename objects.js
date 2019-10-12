@@ -1,5 +1,5 @@
 function objects() {
-  var playlist = {name : [], title : []}
+  var playlist = {"oliver tree" : "alien boy"}
 }
 
 function updatePlaylist(playlist, name, title) {

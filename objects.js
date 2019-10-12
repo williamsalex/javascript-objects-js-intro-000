@@ -1,4 +1,4 @@
-playlist = {oliverTree:"alien boy"}
+var playlist = {oliverTree:"alien boy"}
 
 function updatePlaylist(playlist, name, title) {
   playlists

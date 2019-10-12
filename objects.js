@@ -1,6 +1,6 @@
 var playlist = {oliverTree:"alien boy"}
 
-function updatePlaylist(playlist, name, title) {
-  var new_obj = playlist[name] = title
+function updatePlaylist(list, name, title) {
+  var new_obj = list[name] = title
   return new_obj
 }

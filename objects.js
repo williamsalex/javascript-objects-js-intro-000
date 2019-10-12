@@ -1,4 +1,6 @@
-var playlist = {name : title}
+function objects() {
+  var playlist = {name : title}
+}
 
 function updatePlaylist(playlist, name, title) {
   playlists

@@ -1,5 +1,5 @@
-var playlist = {oliverTree:"alien boy"}
+var playlist = {}
 
 function updatePlaylist(playlist, name, title) {
-  playlist.name = title
+  playlist[name] = title
 }

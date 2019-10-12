@@ -1,4 +1,4 @@
-Object.assign(playlist = {names : titles})
+var playlist = new Object({name : title})
 
 function updatePlaylist(playlist, name, title) {
   playlists
